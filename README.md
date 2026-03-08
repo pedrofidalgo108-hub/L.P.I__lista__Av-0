@@ -26,10 +26,12 @@
   
 **Guia:**
   
-  **1.** Copie o código do exercicio desejado.
+  **1.** Copie o código do programa desejado.
   
   **2.** Abra um compilador de códigos em liguagem C.
+
+  Ex.: https://www.onlinegdb.com/online_c_compiler
   
-  **3.** Cole o código do exercicio desejado.
+  **3.** Cole o código do programa desejado.
   
   **4.** Execute o código e siga as instruções no terminal.
